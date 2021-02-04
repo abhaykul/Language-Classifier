@@ -31,7 +31,7 @@ All these features failed to provide accurate classifications.
 
 <e.g.> For frequency of alphabets, in Dutch: E, N, A are most frequently used alphabets; whereas for English it is E, T, A. This was a poor differentiator.
 
-<img src = "graph.jpg" align="right">
+<img src = "graph.jpg" height="400" width="400" align="right">
 
 For average word length, both
 languages have a similar curve. Spike
