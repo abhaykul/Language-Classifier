@@ -29,9 +29,9 @@ I have selected all the features based on the most recurring words present in th
 
 All these features failed to provide accurate classifications.
 
-<e.g.> For frequency of alphabets, in Dutch: E, N, A are most frequently used alphabets; whereas for English it is E, T, A. This was a poor differentiator.
-
 <img src = "graph.jpg" height="400" width="400" align="right">
+
+<e.g.> For frequency of alphabets, in Dutch: E, N, A are most frequently used alphabets; whereas for English it is E, T, A. This was a poor differentiator.
 
 For average word length, both
 languages have a similar curve. Spike
