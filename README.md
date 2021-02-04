@@ -64,15 +64,17 @@ of ‘HE / SHE’
 <img src = "tree.jpg">
 
 ---
+### Algorithms used:
 
+---
+#### For Decision Trees:
 <img src= "ds_algo.jpg">
 
 ---
-
-<img src = "ada_algo.jpg"
+#### For Ada-boosted stumps:
+<img src = "ada_algo.jpg">
 
 ---
-
 
 
 
