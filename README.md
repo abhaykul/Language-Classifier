@@ -59,6 +59,23 @@ of ‘HE / SHE’
 ‘FROM/OF/BY’
 10) Check if the sentence contains “a” : The English alphabet ‘a’.
 
+---
+
+<img src = "tree.jpg">
+
+---
+
+<img src= "ds_algo.jpg">
+
+---
+
+<img src = "ada_algo.jpg"
+
+---
+
+
+
+
     
  
 
